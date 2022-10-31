@@ -1,4 +1,3 @@
-from http.client import PAYMENT_REQUIRED
 import random
 import numpy as np
 
